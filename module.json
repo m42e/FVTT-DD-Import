@@ -2,12 +2,12 @@
   "name": "dd-import",
   "title": "DungeonDraft Importer",
   "description": "Imports scene elements from Dungeon Draft map files",
-  "version": "0.52",
+  "version": "0.53",
   "author": "Moo Man, m42e",
   "scripts": ["./ddimport.js"],
   "styles": ["./styles.css"],
   "packs": [],
   "minimumCoreVersion": "0.5.3",
   "manifest": "https://raw.githubusercontent.com/m42e/FVTT-DD-Import/walloffset_beta_module/module.json",
-  "download": "https://github.com/m42e/FVTT-DD-Import/archive/walloffset_beta.zip"
+  "download": "https://github.com/m42e/FVTT-DD-Import/archive/cavewall_offset.zip"
 }
